@@ -1,0 +1,27 @@
+{
+  "name": "react-landing-page",
+  "version": "1.0.0",
+  "description": "A modern landing page built with React.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "typescript": "^4.0.0"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0",
+    "vite-plugin-react": "^1.0.0"
+  },
+  "keywords": [
+    "react",
+    "landing page",
+    "presentation"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
